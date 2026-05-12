@@ -367,6 +367,7 @@ Pantas Launcher 内置串流游戏支持，可将 PC 或游戏主机的画面串
 2. 在电脑上安装并运行 **NVIDIA GeForce Experience** 或 **Sunshine**。
 3. 在 Pantas Launcher → 串流游戏 → PC，进入PC串流界面，等待自动发现主机或手动添加主机
 4. 添加主机方式：点击PC串流界面方块，自动识别同一网络下对应PC或手动输入服务端（串流电脑）IP地址与PC连接。
+   
    进入成功后，launcher界面会现 4 位 PIN 码，在电脑输入 4 位 PIN 码完成配对。
 6. 配对后即可选择并启动游戏
 
