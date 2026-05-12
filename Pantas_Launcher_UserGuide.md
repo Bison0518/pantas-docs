@@ -364,10 +364,12 @@ Pantas Launcher 内置串流游戏支持，可将 PC 或游戏主机的画面串
 **Moonlight 串流快速设置：**
 
 1. 确保手机和电脑在**同一 WiFi 网络**下
-2. 在电脑上安装并运行 **NVIDIA GeForce Experience** 或 **Sunshine**，开启 GameStream
+2. 在电脑上安装并运行 **NVIDIA GeForce Experience** 或 **Sunshine**。
 3. 在 Pantas Launcher → 串流游戏 → Moonlight，等待自动发现主机
 4. 点击主机 → 输入电脑显示的 4 位 PIN 码完成配对
 5. 配对后即可选择并启动游戏
+
+可以参考Pantas launcher 串流教学视频操作   
 
 > 💡 建议使用 5GHz WiFi 以获得最低延迟体验。有线网络（手机 USB 网卡）效果更佳。
 
