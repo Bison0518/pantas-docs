@@ -167,7 +167,7 @@ roms/
 扫描完成后，launcher中心区域会显示弹窗提示扫描已完成。
 
 - **已有 ROM 的平台**会显示在游戏库的模拟器模块右下角显示游戏数量
-- **没有 ROM 的平台**默认模拟器模块右下角显示游戏数量为0
+- **没有 ROM 的平台**默认模拟器模块右下角显示游戏数量为0或不显示平台
 - 扫描过程在后台进行，不影响正常使用
 
 ---
@@ -259,7 +259,7 @@ Pantas Launcher 游戏库支持以下几类游戏来源：
 | 平台 | 模拟器 | ROM 格式 |
 |------|--------|----------|
 | PS2 | AetherSX2 / NetherSX2 | .iso / .bin |
-| NES | RetroArch (FCEUmm) | .nes / .zip |
+| NES | RetroArch  | .nes / .zip |
 | SNES | RetroArch (Snes9x) | .smc / .sfc / .zip |
 | NDS | DraStic | .nds / .zip |
 | GBA | RetroArch (mGBA) | .gba / .zip |
