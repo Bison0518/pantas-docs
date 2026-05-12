@@ -356,17 +356,17 @@ Pantas Launcher 内置串流游戏支持，可将 PC 或游戏主机的画面串
 
 | 平台 | 说明 |
 |------|------|
-| Moonlight（本地串流） | 串流 NVIDIA GeForce Experience 或 Sunshine 主机 |
+| Moonlight（PC本地串流） | 串流 NVIDIA GeForce Experience 或 Sunshine 主机 |
 | Chiaki（PS4/PS5 串流） | 串流 PlayStation 主机 |
 | Xbox 云游戏 | 通过浏览器或专属入口访问 |
 | 其他第三方串流 | 可通过添加自定义应用入口接入 |
 
-**Moonlight 串流快速设置：**
+**PC串流快速设置：**
 
 1. 确保手机和电脑在**同一 WiFi 网络**下
 2. 在电脑上安装并运行 **NVIDIA GeForce Experience** 或 **Sunshine**。
-3. 在 Pantas Launcher → 串流游戏 → Moonlight，等待自动发现主机
-4. 点击主机 → 输入电脑显示的 4 位 PIN 码完成配对
+3. 在 Pantas Launcher → 串流游戏 → PC，进入PC串流界面，等待自动发现主机或手动添加主机
+4. 添加主机方式：点击PC串流界面方块，自动识别同一网络下对应PC或手动输入服务端（串流电脑）IP地址与PC连接。进入成功后，launcher界面会现 4 位 PIN 码，在电脑输入 4 位 PIN 码完成配对。
 5. 配对后即可选择并启动游戏
 
 可以参考Pantas launcher 串流教学视频操作   
